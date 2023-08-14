@@ -1,0 +1,2 @@
+Text-file1 in directory2
+Second line
